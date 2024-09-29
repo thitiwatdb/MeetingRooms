@@ -19,3 +19,5 @@ git checkout develop จากนั้นของ
 
 
 git push origin dev 
+
+git merge –no-ff dev //merge branch
