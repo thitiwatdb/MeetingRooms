@@ -1,1 +1,7 @@
 npm create vite@latest //create project react
+
+
+git add .   //update
+git commit -m "comment"
+
+04691f1d20233ccb13607e779a9e5e66b99703a0 //master
