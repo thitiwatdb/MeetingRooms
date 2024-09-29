@@ -13,3 +13,11 @@ git push origin master
 - git branch ค าสั่งแสดง branch ของเราทั้งหมด
 - git branch develop สร้าง branch ชื่อว่า develop ขึ้นมา
 - git branch –delete developลบ branch ชื่อว่า develop
+
+git checkout develop จากนั้นของ
+ใช้ค าสั่งเพื่อดู branch จะเห็นว่าตัว * จะมาอยู่ที่ develop ละ
+
+
+git push origin dev 
+
+git merge –no-ff dev //merge branch
