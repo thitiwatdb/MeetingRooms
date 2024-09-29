@@ -16,3 +16,6 @@ git push origin master
 
 git checkout develop จากนั้นของ
 ใช้ค าสั่งเพื่อดู branch จะเห็นว่าตัว * จะมาอยู่ที่ develop ละ
+
+
+git push origin dev 
