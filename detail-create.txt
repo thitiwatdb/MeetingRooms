@@ -9,3 +9,7 @@ git commit -m "comment"
 git remote add origin https://github.com/thitiwatdb/MeetingRooms.git
 
 git push origin master
+
+- git branch ค าสั่งแสดง branch ของเราทั้งหมด
+- git branch develop สร้าง branch ชื่อว่า develop ขึ้นมา
+- git branch –delete developลบ branch ชื่อว่า develop
